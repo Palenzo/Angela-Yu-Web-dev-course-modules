@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node": "^22.3.0",
+    "superheroes": "^4.0.0",
+    "main": "index.js",
+    "type": "module"
+  }
+}
